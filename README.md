@@ -1,6 +1,6 @@
 # Dork-Searcher
 Simple Dork Searcher<br>
-![alt text](https://github.com/Soud69/Uban-Instagram/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/Soud69/Dork-Searcher/blob/main/image.jpg?raw=true)
 # Credit
 
 Instagram: https://www.instagram.com/8Y/ <br>
